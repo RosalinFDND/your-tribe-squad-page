@@ -24,7 +24,7 @@ tijdens de ontwerpfase hebben wij inspiratie opgedaan vanuit verschillende bronn
 
 
 
-<h2> defenetieve schetsen</h2>
+<h2> definitieve schetsen</h2>
 <img width="223" alt="image" src="https://user-images.githubusercontent.com/112857270/191942818-b21c4622-2ad5-4f43-9c61-3bc886293c25.png">
 
 
@@ -41,4 +41,4 @@ tijdens de ontwerpfase hebben wij inspiratie opgedaan vanuit verschillende bronn
 * css
 
 <h2>responsive design</h2>
-we wilden graag dat onze website ook op verschilende schermen even goed zo werken. Door media querys te gerbuiken is dat ons gelukt
+we wilden graag dat onze website ook op verschilende schermen even goed zou werken. Door media query's te gebruiken is dat ons gelukt
